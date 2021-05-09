@@ -51,5 +51,9 @@
 |Washing and Polishing|It Gives a bike fresh and new look.|
 </details>
 
+***<h1 align="center"> Customer Handover </h1>***
+
+***In the end bike customer takes the final ride to see the work done by mechanic and if all the issues are resolved,  billing is done .***
+
 
 
