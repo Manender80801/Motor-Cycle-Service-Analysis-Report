@@ -40,18 +40,17 @@
 
 |What?| Why?|
 |------|------|
-|Oil and filter change|Your engine oil needs to be changed regularly to ensure engine longevity.|
-|Air filter|Bikes are fitted with either a paper or foam type air filter element. |
-|Spark Plugs|Over time, spark plugs will show signs of wear and the gap between their electrodes will go out of adjustment.|
+|[Oil and filter change](https://www.amazon.in/Royal-Enfield-Himalayan-411cc-Filter/dp/B082QY5D4D)|Your engine oil needs to be changed regularly to ensure engine longevity.|
+|[Air filter](https://www.amazon.in/BMC-Air-Filter-Enfield-Himalayan/dp/B077ZHTTQH)|Bikes are fitted with either a paper or foam type air filter element. |
+|[Spark Plugs](https://www.amazon.in/NIKAVI-Power-Compatible-Enfield-Bullet/dp/B08L8ZZLXX/ref=sr_1_2?dchild=1&keywords=spark+plug+royal+engieldhimalayan&qid=1620618819&s=automotive&sr=1-2)|Over time, spark plugs will show signs of wear and the gap between their electrodes will go out of adjustment.|
 |Drive chain adjustment|There should be a certain amount of slack in the drive chain |
 |Oiling cables, levers and pivots|Because cables, stand and lever pivots are exposed to the elements, they must be lubed regularly to ensure smooth operation.|
 |Clutch adjustment|Correct adjustment of the clutch is important to ensure smooth gear changes and prevent clutch slip or drag. |
 |Engine idle speed (tick over speed)|Check that the engine idles at the correct speed when it is fully warmed up. There is usually an idle speed adjuster knob at the side of the carburettors.|
-|Brake pads|Your brake pad friction material will eventually wear down to a low level, at which point the pads must be renewed. |
+|[Brake pads](https://www.amazon.in/NIKAVI-Compatible-Continental-Thunderbird-Interceptor/dp/B07VYRT2SB/ref=sr_1_2?dchild=1&keywords=brake+pads+for+himalayan&qid=1620618877&replacementKeywords=brake+pads+for&s=automotive&sr=1-2&vehicle=Royal+Enfield%3AHIMALAYAN)|Your brake pad friction material will eventually wear down to a low level, at which point the pads must be renewed. |
 |Washing and Polishing|It Gives a bike fresh and new look.|
 </details>
-
-***<h1 align="center"> Customer Handover </h1>***
+Finalization </h1>***
 
 ***In the end bike customer takes the final ride to see the work done by mechanic and if all the issues are resolved,  billing is done .***
 
