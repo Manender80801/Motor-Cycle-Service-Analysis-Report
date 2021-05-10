@@ -59,6 +59,6 @@
 ------
 
 
-### In the end i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a good experience with bike after service .  Finally Did the Blling For the service taken.
+### In the end i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a good experience with bike after service .  Finally did the billing for the service taken.
 
 
