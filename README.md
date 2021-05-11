@@ -1,19 +1,18 @@
-***<h1 align="center">MOTORCYCLE SERVICE ANALYSIS </h1>***
+***<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/83487902/117855733-65606c80-b2a8-11eb-9e14-bb5ef0c8feee.gif" alt="m s" height="100" width="250" /> tu mera bhai hai jaivir BP </h2>***
 
+***<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/83487902/117855129-ce93b000-b2a7-11eb-921a-6324de273a90.gif" alt="m s" height="60" width="250" /> Jasii bhi hai </h2>***
 -------
 
-***<h1 align="center"> Details About Product </h1>***
+
 
 <details close="close"> 
   <summary><b>Click Here </b></summary>
   
   | Model| [Royal Enfield Himalayan](https://www.royalenfield.com/in/en/motorcycles/himalayan/)|
   |------|------|
-  | Engine Capacity|411 cc|
-  |Milage|30 kmpl|
-  | Transmission |5 Speed Manual
-  |Kerb Weight	|199 kg|
-|About Himalayan| Royal Enfield Himalayan is a adventure bikes available at a starting price of Rs. 1,91,847 in India. It is available in 6 variants and 9 colours with top variant price starting from Rs. 2,08,520. The Himalayan is powered by 411cc BS6 engine which develops a power of 24.3 bhp and a torque of 32 Nm. With both front and rear disc brakes, Royal Enfield Himalayan comes up with anti-locking braking system. This Himalayan bike weighs 199 kg and has a fuel tank capacity of 15 liters.|
+  | Model |2018|
+  | About Bike Visit Website | [Click Here](https://www.royalenfield.com/in/en/motorcycles/himalayan/)
+
 </details>
 
 --------
