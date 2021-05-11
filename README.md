@@ -38,7 +38,14 @@
 |Step 3 | Mechanic took the bike to the service area.|
 |Step 4 | Mechanic and his co-workers started working on the bike .|
 
-***<h1 > Things I Assured to be done</h1>***
+
+</details>
+
+------
+
+***<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/83487902/117865472-a0b46880-b2b3-11eb-923d-0398c2e48edc.gif" alt="m s" height="100" width="100" /> Things I Assured To Be Done </h2>***
+<details close="close"> 
+  <summary><b>Click Here</b></summary>
 
 |What?| Why?|
 |------|------|
@@ -51,10 +58,10 @@
 |<img align="center" src="https://user-images.githubusercontent.com/83487902/117862779-aa889c80-b2b0-11eb-9dab-3fefcf478318.gif" alt="m s" height="100" width="100" />Engine idle speed (tick over speed)|Check that the engine idles at the correct speed when it is fully warmed up. There is usually an idle speed a be done with clutchadjuster knob at the side of the carburettors.|
 |<img align="center" src="https://user-images.githubusercontent.com/83487902/117862722-9b095380-b2b0-11eb-94f1-0f8f2de48f06.jpg" alt="m s" height="100" width="100" />Brake pads|Your brake pad friction material will eventually wear down to a low level, at which point the pads must be renewed. |
 |<img align="center" src="https://user-images.githubusercontent.com/83487902/117862687-8e84fb00-b2b0-11eb-9717-af7638fa6784.gif" alt="m s" height="100" width="100" />Washing |It Gives a bike fresh and new look.|
+
 </details>
 
-------
-
+----------
 
 ### In the end i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a good experience with bike after service .  Finally did the billing for the service taken.
 
