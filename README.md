@@ -19,10 +19,10 @@
 <details close="close"> 
   <summary><b>Taken By Me </b></summary> 
   
-|Steps | Actions| Time Records |
+|Steps | Actions| Date and Time Records |
 |------|------| ------- |
 |Step 1 |Took my bike  to the Service Station.| 11:00 AM|
-|Step 2 | Spoke to the Service Provider regarding Bike maintenance.| 11:05 AM|
+|Step 2 | Spoke to the Service Provider regarding Bike maintenance.| 22-01-2021 , 11:05 AM|
 |Step 3 | Told issues with the bike to Mechanic.| 11:10 AM|
 |Step 4 | Gave bike to mechanic and moved to the waiting lounge.| 11:15 AM|
 </details>
