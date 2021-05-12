@@ -19,24 +19,24 @@
 <details close="close"> 
   <summary><b>Taken By Me </b></summary> 
   
-|Steps | Actions|
-|------|------|
-|Step 1 |Took my bike  to the Service Station.|
-|Step 2 | Spoke to the Service Provider regarding Bike maintenance.|
-|Step 3 | Told issues with the bike to Mechanic.|
-|Step 4 | Gave bike to mechanic and moved to the waiting lounge..|
+|Steps | Actions| Time Records |
+|------|------| ------- |
+|Step 1 |Took my bike  to the Service Station.| 11:00 AM|
+|Step 2 | Spoke to the Service Provider regarding Bike maintenance.| 11:05 AM|
+|Step 3 | Told issues with the bike to Mechanic.| 11:10 AM|
+|Step 4 | Gave bike to mechanic and moved to the waiting lounge.| 11:15 AM|
 </details>
 
 
 <details close="close"> 
   <summary><b>Taken By Service Provider</b></summary> 
   
-|Steps | Actions|
-|------|------|
-|Step 1 |Mechanic took the bike to see the changes to be made by taking a short ride.|
-|Step 2 | Mechanic told me the issue with the bike he observed.|
-|Step 3 | Mechanic took the bike to the service area.|
-|Step 4 | Mechanic and his co-workers started working on the bike .|
+|Steps | Actions| Time Taken|
+|------|------| ------|
+|Step 1 |Mechanic took the bike to see the changes to be made by taking a short ride.| 11:20 AM|
+|Step 2 | Mechanic told me the issue with the bike he observed.| 11:25 AM|
+|Step 3 | Mechanic took the bike to the service area.| 11:30 AM
+|Step 4 | Mechanic and his co-workers started working on the bike .| 01:00 PM|
 
 
 </details>
@@ -63,6 +63,9 @@
 
 ----------
 
-### In the end i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a good experience with bike after service .  Finally did the billing for the service taken.
+***<h2> Experience </h2>***
 
-<button id="BackToTopBtn" class="btn btn-light"><i class="fas fa-chevron-up"></i></button>
+### I had a Good experience at ther service station , the staff was very good in dealing with therir customers . They did their work within time . After that  i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a amazing experience with bike after it got serviced .  
+
+### In the end i did the billing for the same. 
+
