@@ -65,7 +65,7 @@
 
 ***<h2> Experience </h2>***
 
-### I had a Good experience at ther service station , the staff was very good in dealing with therir customers . They did their work within time . After that  i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a amazing experience with bike after it got serviced .  
+### I had a Good experience at the service station , the staff was very good in dealing with their customers . They did their work within time . After that  i took a  final ride to see the changes done by mechanic and his team . I obeserved the smoothness and changes they made to it . Now i had a better braking with good tourque . I had a amazing experience with bike after it got serviced .  
 
 ### In the end i did the billing for the same. 
 
